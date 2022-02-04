@@ -10,8 +10,8 @@ The only opinionated choice I've made is including Googles typescript styling gu
 
 
 ## Dependencies
-`gts` - google typescript styling rules for eslint/prettier
-`jest` - javascript testing framework
-`nodemon` - auto reloading script runner
-`sucrase` - development hot reloading ts compiler (tsc is used for dist builds)
-`typescript` - typescript my guy
+`gts` - google typescript styling rules for eslint/prettier  
+`jest` - javascript testing framework  
+`nodemon` - auto reloading script runner  
+`sucrase` - development hot reloading ts compiler (tsc is used for dist builds)  
+`typescript` - typescript my guy  
