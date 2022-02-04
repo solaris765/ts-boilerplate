@@ -1,0 +1,25 @@
+{
+  "name": "ts-boilerplate",
+  "version": "0.0.1",
+  "description": "May goto boiler-plate for typescript projects.",
+  "main": "src/index.ts",
+  "author": "Mason Rhodes",
+  "license": "MIT",
+  "private": false,
+  "scripts": {
+    "dev": "nodemon src/index.ts",
+    "lint": "gts lint",
+    "clean": "gts clean",
+    "build": "tsc",
+    "fix": "gts fix",
+    "test": "jest"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "gts": "^3.1.0",
+    "jest": "^27.4.7",
+    "nodemon": "^2.0.15",
+    "sucrase": "^3.20.3",
+    "typescript": "^4.5.5"
+  }
+}
